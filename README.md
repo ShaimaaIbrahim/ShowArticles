@@ -32,10 +32,10 @@ ShowArticles is a demo application that uses MVVM pattern and Android Jetpack: t
 
 # Testing
 
-# Device Testing
+## Device Testing
 * App Navigation Test - Navigation between screens is tested using Espresso UI framework and ActivityScenario for lifecycle state. Hilt provides test version of Repository and automatically generates a new set of components for each test. This is done with use of a CustomTestRunner that uses an Application configured with Hilt. In order to make Espresso aware of network operations UriIdlingResource is registered for UI test.
 
-# Local Unit Testing
+## Local Unit Testing
 
 
 # Design
