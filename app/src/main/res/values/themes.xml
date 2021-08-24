@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Moviesreviews" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryLightColor</item>
+        <item name="colorPrimaryVariant">@color/primaryLightVarient</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnBackground">@color/grey</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/grey</item>
+        <item name="cardBackgroundColor">@color/white</item>
+        <item name="colorSecondaryVariant">@color/grey</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:textColorTertiary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <color name="grey">#6BD0A4A0</color>
+</resources>

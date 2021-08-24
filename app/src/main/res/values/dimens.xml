@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_1_5">5dp</dimen>
+    <dimen name="grid_2">10dp</dimen>
+    <dimen name="grid_0_25">25dp</dimen>
+    <dimen name="grid_1">5dp</dimen>
+</resources>

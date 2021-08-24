@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_head_image">head_image</string>
+    <string name="retry_button">retery</string>
+    <string name="continue_reading">continue_reading -> </string>
+    <string name="slash">/</string>
+    <string name="retry">retery</string>
+    <string name="error">error</string>
+    <string name="dark_mode">App Mode</string>
+</resources>
