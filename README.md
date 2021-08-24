@@ -46,7 +46,7 @@ ShowArticles is a demo application that uses MVVM pattern and Android Jetpack: t
 
 ## Preview
 
-![Screenshot_٢٠٢١٠٨٢٤-١٧٤٤٢١_Movies 1]<img src= "https://user-images.githubusercontent.com/51680060/130650358-0cf65554-6a20-477e-bda3-b22a19816710.jpg" , width=40, height=100)
+![Screenshot_٢٠٢١٠٨٢٤-١٧٤٤٢١_Movies 1](https://user-images.githubusercontent.com/51680060/130650358-0cf65554-6a20-477e-bda3-b22a19816710.jpg)
 
 ![Screenshot_٢٠٢١٠٨٢٤-١٧٥٧٤٢_Movies 1](https://user-images.githubusercontent.com/51680060/130651037-fc1a132a-eabb-4940-9961-958ef01f782b.jpg)
 
