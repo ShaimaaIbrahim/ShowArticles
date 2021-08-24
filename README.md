@@ -1,5 +1,3 @@
-![Screenshot_٢٠٢١٠٨٢٤-١٧٥٦٢٤_Movies 1](https://user-images.githubusercontent.com/51680060/130652657-e6e21216-e856-49d7-a4c3-27a127f21d83.jpg)
-![Uploading Screenshot_٢٠٢١٠٨٢٤-١٧٥٧٢٥_Movies[1].jpg…]()
 # ShowArticles
 ShowArticles is a demo application that uses MVVM pattern and Android Jetpack: the Pagging 3 library with a backend API, Saved State module for ViewModel, LiveData, ViewBinding, Dagger-Hilt and Navigations Components. The app fetches data from the network with use of Retrofit integrating persisted data in the database via repository pattern. The app also uses and Kotlin Coroutines + Flow. Newsster provides translated text for the other languages, support for a landscape orientation and a night mode.
 
@@ -49,6 +47,9 @@ ShowArticles is a demo application that uses MVVM pattern and Android Jetpack: t
 ## Preview
 
 ![Screenshot_٢٠٢١٠٨٢٤-١٧٤٤٢١_Movies 1](https://user-images.githubusercontent.com/51680060/130650358-0cf65554-6a20-477e-bda3-b22a19816710.jpg) (https://user-images.githubusercontent.com/51680060/130651037-fc1a132a-eabb-4940-9961-958ef01f782b.jpg)
+
+![Screenshot_٢٠٢١٠٨٢٤-١٧٥٦٢٤_Movies 1](https://user-images.githubusercontent.com/51680060/130652657-e6e21216-e856-49d7-a4c3-27a127f21d83.jpg)
+![Screenshot_٢٠٢١٠٨٢٤-١٧٥٧٢٥_Movies 1](https://user-images.githubusercontent.com/51680060/130653069-95ee4080-8ee6-4733-b337-2f35087bf9d4.jpg)
 
 ![Screenshot_٢٠٢١٠٨٢٤-١٧٥٧٤٢_Movies 1](https://user-images.githubusercontent.com/51680060/130651037-fc1a132a-eabb-4940-9961-958ef01f782b.jpg)
 
