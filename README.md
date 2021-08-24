@@ -43,3 +43,7 @@ ShowArticles is a demo application that uses MVVM pattern and Android Jetpack: t
 * The app starts with an asymmetric staggered list of news displayed in the RecyclerView widget. The screen also consists of options menu with category item as an icon in the app bar and setting item that appears in the overflow menu and lets the user switch themes and language. The screen takes the user to the article details with a beautiful collapsing layout.
 * The app has dialogs, buttons, menu and progress indicator customized for colors, shapes and typography. All clickable components behave intuitively changing their appearance when they are pressed.
 * The app has beautiful colors schemes for day and night modes.
+
+## Preview
+
+![Screenshot_٢٠٢١٠٨٢٤-١٧٤٤٢١_Movies 1](https://user-images.githubusercontent.com/51680060/130650358-0cf65554-6a20-477e-bda3-b22a19816710.jpg)
