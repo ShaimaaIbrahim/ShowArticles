@@ -32,3 +32,8 @@ Timber for logs.
 Architecture:
 MVVM Architecture
 Repository pattern
+
+## Architecture:
+
+MVVM Architecture
+Repository pattern
