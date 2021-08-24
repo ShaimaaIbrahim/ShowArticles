@@ -21,18 +21,17 @@ ShowArticles is a demo application that uses MVVM pattern and Android Jetpack: t
 Dagger-Hilt for dependency injection. Object creation and scoping is handled by Hilt.
 
 ## Third party:
-
-
 Glide for image loading.
 Kotlin Coroutines + Flow for managing background threads with simplified code and reducing needs for callbacks
 Retrofit2 & OkHttp3 - to make REST requests to the web service integrated.
 Moshi to handle the deserialization of the returned JSON to Kotlin data objects.
-Timber for logs.
-Architecture:
-MVVM Architecture
-Repository pattern
 
 ## Architecture:
+#. MVVM Architecture
+#. Repository pattern
 
-MVVM Architecture
-Repository pattern
+# Design
+ShowArticles is built with Material Components for Android.
+The app starts with an asymmetric staggered list of news displayed in the RecyclerView widget. The screen also consists of options menu with category item as an icon in the app bar and setting item that appears in the overflow menu and lets the user switch themes and language. The screen takes the user to the article details with a beautiful collapsing layout.
+The app has dialogs, buttons, menu and progress indicator customized for colors, shapes and typography. All clickable components behave intuitively changing their appearance when they are pressed.
+The app has beautiful colors schemes for day and night modes.
