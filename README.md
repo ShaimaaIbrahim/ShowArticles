@@ -10,7 +10,7 @@ ShowArticles is a demo application that uses MVVM pattern and Android Jetpack: t
 
 (.) ViewModel - UI related data holder, lifecycle aware.
 
-.Lifecycles - Create a UI that automatically responds to lifecycle events.
+"." Lifecycles - Create a UI that automatically responds to lifecycle events.
 
 .LiveData - Build data objects that notify views when the underlying database changes.
 
