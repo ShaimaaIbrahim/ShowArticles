@@ -4,7 +4,7 @@ ShowArticles is a demo application that uses MVVM pattern and Android Jetpack: t
 # Tech stack & Open-source libraries
 ## Jetpack Library
 
-#. Paging 3 sets up a Repository that will use the local database to page in data for the UI and also back-fill the database from the network as the user reaches to the end of the data .
+* Paging 3 sets up a Repository that will use the local database to page in data for the UI and also back-fill the database from the network as the user reaches to the end of the data .
 
 * ViewBinding - allows to more easily write code that interacts with views and replaces findViewById.
 
@@ -29,6 +29,14 @@ ShowArticles is a demo application that uses MVVM pattern and Android Jetpack: t
 ## Architecture:
 * MVVM Architecture
 * Repository pattern
+
+# Testing
+
+# Device Testing
+* App Navigation Test - Navigation between screens is tested using Espresso UI framework and ActivityScenario for lifecycle state. Hilt provides test version of Repository and automatically generates a new set of components for each test. This is done with use of a CustomTestRunner that uses an Application configured with Hilt. In order to make Espresso aware of network operations UriIdlingResource is registered for UI test.
+
+# Local Unit Testing
+
 
 # Design
 * ShowArticles is built with Material Components for Android.
