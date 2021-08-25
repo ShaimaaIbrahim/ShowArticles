@@ -5,7 +5,7 @@ for ViewModel, LiveData, ViewBinding, Dagger-Hilt and Navigations Components. Th
 # Tech stack & Open-source libraries
 ## Jetpack Library
 
-* Paging 3 sets up a Repository that will use the local database to page in data for the UI and also back-fill the database from the network as the user reaches to the end of the data .
+* Paging 3 sets up a Repository that will use the internet to page in data for the UI and also back-fill the ui from the network as the user reaches to the end of the data .
 
 * ViewBinding - allows to more easily write code that interacts with views and replaces findViewById.
 
