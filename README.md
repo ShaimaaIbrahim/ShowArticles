@@ -34,10 +34,8 @@ for ViewModel, LiveData, ViewBinding, Dagger-Hilt and Navigations Components. Th
 # Testing
 
 ## Device Testing
-* App Navigation Test - Navigation between screens is tested using Espresso UI framework and ActivityScenario for lifecycle state. Hilt provides test version of Repository and automatically generates a new set of components for each test. This is done with use of a CustomTestRunner that uses an Application configured with Hilt. In order to make Espresso aware of network operations UriIdlingResource is registered for UI test.
-
-## Local Unit Testing
-* using juint test for methods and  objects into app using Dagger Hilt testing component
+* App Navigation Test - Navigation between screens is tested using Espresso UI framework and ActivityScenario for lifecycle state. Hilt provides test version of Repository and automatically generates a new set of components for each test. This is done with use of a CustomTestRunner that uses an Application configured with Hilt. 
+ 
 
 # Design
 * ShowArticles is built with Material Components for Android.
